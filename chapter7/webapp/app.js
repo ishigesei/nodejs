@@ -1,5 +1,5 @@
 /*
- * app.js -Expressサーバ静的ファイル
+ * app.js -Expressサーバ静的ファイル#
 */
 
 /*jslint browser:true, continue:true,
